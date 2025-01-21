@@ -1,6 +1,8 @@
 # AMO_ws2425
 Christopher Göbeler - 7376835
+
 Jingyi Lu - 
+
 Wengchang Wang -
 
 # 📊 Final Project - Applied Mathematical Optimization
