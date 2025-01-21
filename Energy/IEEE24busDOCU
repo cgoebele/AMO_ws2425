@@ -1,4 +1,4 @@
-IEEE 24 bus Description
+IEEE 24 bus Description (https://icseg.iti.illinois.edu/ieee-24-bus-system/)
 This dataset provides a time-variant view of the IEEE 24-bus system for analyzing hourly changes in power system parameters. 
 It is structured to analyze hourly variations in power system parameters at each bus. 
 The document provides an overview of the variables used in the 24-hour time horizon dataset. 
