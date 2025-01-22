@@ -36,6 +36,6 @@ The voltage magnitude at the bus for the given hour, normalized to the nominal v
 
 ---
 
-To integrate renewables production, take scenarios from 
+To integrate renewables production, take wind scenarios from 
 https://sites.google.com/site/datasmopf/wind-scenarios
-for wind
+
