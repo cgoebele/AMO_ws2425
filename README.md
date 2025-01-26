@@ -3,7 +3,7 @@ Christopher Göbeler - 7376835
 
 Jingyi Lu - 
 
-Wengchang Wang -
+Wengchang Wang - 7430374
 
 # 📊 Final Project - Applied Mathematical Optimization
 
