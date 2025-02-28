@@ -1,7 +1,7 @@
 # AMO_ws2425
 Christopher Göbeler - 7376835
 
-Jingyi Lu - 
+Jingyi Lu - 7419462
 
 Wengchang Wang - 7430374
 
@@ -20,13 +20,6 @@ Starting from this network setup we aim to evaluate the social gains from implem
 The network setup was chosen to distantly resemble possible problems found in the german energy network: With the general movement towards renewable energy sources and larger wind production in the north with less renewable sources installed in the south where demand sources are difficult to be met by renewable sources in large parts.
 Our idea to tackle this problem in a mini-network resembling similar congestion issues is to encourage installation of pv systems on busses distant to the main existing renewable energy source. Installing different pv capacities and supporting this setup with local energy storage systems allows uns to evaluate costs benefits on a macro level which can give valuable insight to regulators and lawmakers regarding possible subsidization or other support systems.
 
----
-
-## 📚 Methodology
-
----
-
-## 🗂 Repository Structure - Full Guide for Use
 
 
 
